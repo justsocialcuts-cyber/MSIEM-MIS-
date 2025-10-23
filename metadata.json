@@ -1,0 +1,5 @@
+{
+  "name": "MSIEM-MIS",
+  "description": "A comprehensive application for teachers to manage student records, marks, and generate detailed, printable result sheets. Data is securely stored using Firebase.",
+  "requestFramePermissions": []
+}
